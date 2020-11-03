@@ -1,3 +1,12 @@
+# Rubik's Cube Solver
+This project combines different technologies and code to allow anyone to scan 
+their physical rubiks cube and transfer the color patterns to a simulated rubik cube. 
+Then our project allows you to click a button and watch your simulated rubik cube be solved
+on screen.
+
+We used Anvil to develop a webapp where you can use our project without having to download 
+libraries, and and functions by running it on my computer. 
+
 # qbr.
 A rubik's cube solver written in python 3 using OpenCV using your webcam.
 
